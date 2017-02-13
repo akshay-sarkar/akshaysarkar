@@ -1,16 +1,7 @@
-Responsive HTML5 website template for developers
+Used Free Template for design the website.
+Below are author detail. All visual Credit goes to the Author.
 
-Theme name:
-=======================================================================
-Developer
 
-Theme version:
-=======================================================================
-v1.2
-
-Release Date:
-=======================================================================
-10 August 2014
 
 Author: 
 =======================================================================
@@ -19,6 +10,7 @@ Xiaoying Riley at 3rd Wave Media Ltd. (http://themes.3rdwavemedia.com/)
 Contact:
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
+Template Link: http://www.free-css.com/free-css-templates/page208/developer
 Email: hello@3rdwavemedia.com
 Twitter: @3rdwave_themes
 
